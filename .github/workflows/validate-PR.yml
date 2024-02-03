@@ -1,4 +1,4 @@
-name: validate-MicroFarm Solana
+name: validate-PR
 
 on:
   # push:
@@ -23,5 +23,5 @@ jobs:
 
       - run: yarn install
 
-      - name: Validate MicroFarm Solana
+      - name: Validate-PR
         run: yarn validate-PR >> $GITHUB_STEP_SUMMARY
