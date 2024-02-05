@@ -1,4 +1,4 @@
-name: validate-Mircofarm Solana
+name: validate PR
 
 on:
   # push:
