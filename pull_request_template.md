@@ -1,7 +1,7 @@
 # Validate Microfarm Solana [{MFS}](https://solscan.io/token/54WwD7TxXoK7u6JUzkbgNrqX4rKqYbLqEDhTm1uTZyzU)
 
 ## Attestations (Please provide links):
-- Tweet from your Twitter Account attesting the Mint address, tagging [@JupiterExchange](https://twitter.com/JupiterExchange) and showing community support: https://twitter.com/{your_account}/status/{your_tweet_id}
+- Tweet from your Twitter Account attesting the Mint address, tagging [@JupiterExchange](https://twitter.com/JupiterExchange) and showing community support: https://x.com/microfarmcoin/status/1753547550093697404?s=20
 - Coingecko/ CMC URL (If available): https://www.coingecko.com/en/coins/{id}
 
 ## Validation (Please check off boxes):
