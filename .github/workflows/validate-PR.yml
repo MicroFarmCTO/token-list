@@ -13,8 +13,6 @@ jobs:
         with:
           fetch-depth: 0
       - uses: actions/setup-node20
-  using: 'node20'
-  main: 'main.js'
 
       # - name: Dump GitHub context
       #   id: github_context_step
