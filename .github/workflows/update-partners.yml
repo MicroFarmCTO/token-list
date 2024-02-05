@@ -33,4 +33,4 @@ jobs:
           reviewers: meijiao
           branch: "new-partner-token-list-update-${{ github.sha }}"
           base: main
-          delete-branch: 
+          delete-branch: true
