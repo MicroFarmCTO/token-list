@@ -20,8 +20,8 @@ jobs:
 
       ## for local act testing
       # - run: npm install -g yarn
-      
+
       - run: yarn install
 
       - name: Validate PR
-        run: yarn dev
+        run: yarn validate-PR >> $GITHUB_STEP_SUMMARY
